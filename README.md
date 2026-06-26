@@ -1,11 +1,10 @@
 <h2 data-importer="text" align="left">Hi! My name is Daielly and I'm a Front-End Developer.</h2>
-
 ###
+<h4>Hi there! I am a software developer graduated in Analysis and Systems Development. 
 
-<div data-importer="stats" align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=imullu&show_icons=true&theme=dracula" height="150" alt="GitHub stats" />
-</div>
+I am deeply passionate about game development, exploring how technology can create engaging and interactive experiences. Additionally, I have a strong interest in the field of child development, which drives me to think about how software and games can positively impact learning and growth.
 
+During my journey, I successfully developed a game development project focused on this area, which was a fantastic and rewarding challenge. I am always looking for opportunities to learn, improve my skills, and build impactful solutions!</h4>
 ###
 
 <div data-importer="techs" align="left">
