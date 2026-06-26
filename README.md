@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=imullu&theme=dracula" height="150" alt="WakaTime stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=imullu&show_icons=true&theme=dracula" height="150" alt="GitHub stats" />
 </div>
 
 ###
